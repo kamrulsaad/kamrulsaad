@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulsaad&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulsaad" /> </p>
 
-- 🔭 I’m currently working on [University Mananagement](https://github.com/kamrulsaad/ph_core_service)
+- 🔭 I’m currently working on [University Mananagement Frontend]([https://github.com/kamrulsaad/ph_core_service](https://github.com/kamrulsaad/university-management-frontend))
 
 - 🌱 I’m currently learning **Prisma, GraphQl, AWS**
 
