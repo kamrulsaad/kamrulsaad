@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GraphQl, AWS, Docker**
 
-- 👨‍💻 All of my projects are available at [kamrulsaad.com/projects](https://kamrulsaad.com/projects)
+- 👨‍💻 All of my projects are available at [kamrulsaad.com/projects](https://kamrulsaad.com/category/projects/)
 
 - 📝 I regularly write articles on [kamrulsaad.com/blog](https://kamrulsaad.com/blog)
 
