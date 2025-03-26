@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulsaad&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulsaad" /> </p>
 
 
-- 🌱 I’m currently learning **AWS, Azure, Docker & Kubernetes**
+- 🌱 I’m currently learning **AWS, Azure**
 
 - 👨‍💻 All of my projects are available at [kamrulsaad.com/projects](https://kamrulsaad.com/category/projects/)
 
